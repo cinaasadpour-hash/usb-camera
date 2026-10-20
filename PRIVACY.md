@@ -1,11 +1,11 @@
-# حریم خصوصی | Privacy
+حریم خصوصی — دوربین USB
 
-این نسخه دارای تبلیغات تپسل است. درخواست و نمایش تبلیغ به اینترنت و سرویس شخص ثالث نیاز دارد و SDK می‌تواند اطلاعات فنی دستگاه و تعامل با تبلیغ را طبق سیاست خود پردازش کند. نبود تبلیغ کار اصلی برنامه را متوقف نمی‌کند. این سند به معنی نبود جمع‌آوری اطلاعات توسط SDK نیست.
+مجوز دوربین برای دسترسی به دوربین USB لازم است. تصاویر دوربین برای نمایش، ثبت فایل و ابزارهای پردازش تصویر استفاده می‌شوند. عکس‌ها و ویدیوها روی گوشی ذخیره می‌شوند و تنظیمات و کالیبراسیون به صورت محلی نگهداری می‌شوند. انتخاب تصویر مرجع و اشتراک‌گذاری یا حذف فایل به اقدام شما وابسته است. ضبط صدا در نسخه فعلی فعال نیست و مجوز میکروفون درخواست نمی‌شود.
 
-This release contains Tapsell advertising. Ad requests and rendering require internet and a third-party service. The SDK may process device, technical and ad-interaction data under its own policy. Missing inventory does not block core app functionality. This document does not claim that the SDK collects no data.
+برنامه دارای تبلیغات تپسل است. SDK تبلیغاتی ممکن است اطلاعات فنی دستگاه، شبکه و تعامل با تبلیغ را برای ارائه و اندازه‌گیری تبلیغات پردازش کند. کد برنامه محتوای اسناد، تصاویر دوربین یا فایل‌های شخصی را به عنوان ورودی تبلیغات به SDK ارسال نمی‌کند. حذف برنامه تنظیمات خصوصی آن را پاک می‌کند؛ فایل‌هایی که در حافظه مشترک ذخیره شده‌اند ممکن است باقی بمانند.
 
-Only grant permissions needed for the feature you use. Avoid clearing app data if you want to retain local settings and records.
+Privacy — USB Camera
 
-فقط مجوزهای لازم برای قابلیت مورد استفاده را بدهید. برای نگهداری تنظیمات و اطلاعات محلی، داده برنامه را پاک نکنید.
+Camera permission is used to access the USB camera. Camera images are used for preview, capture and image-processing tools. Photos and videos are saved on your device, and preferences and calibration are stored locally. Choosing reference images and sharing or deleting files are user-initiated actions. Audio recording is disabled in this version and microphone permission is not requested.
 
-[Tapsell](https://tapsell.ir/) · [SDK documentation](https://developer.tapsell.ir/fa/docs/sdk-legacy-tapsell-plus/)
+This app includes Tapsell advertising. The advertising SDK may process device, network and ad-interaction information to deliver and measure ads. App code does not pass document contents, camera frames or personal files to the SDK as advertising inputs. Uninstalling removes private app settings; files in shared storage may remain.
