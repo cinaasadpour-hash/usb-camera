@@ -1,52 +1,41 @@
-# USB Camera | دوربین USB
+# USB Camera — دوربین USB
 
 ![Icon](icon.png)
 
-[دریافت آخرین نسخه / Download latest](https://github.com/cinaasadpour-hash/usb-camera/releases/latest)
+[Download / دریافت نسخه 1.0.3](https://github.com/cinaasadpour-hash/usb-camera/releases/tag/v1.0.3)
 
-## فارسی
+دوربین USB برای نمایش تصویر دوربین‌ها و میکروسکوپ‌های USB سازگار با UVC از طریق OTG ساخته شده است.
 
-دوربین USB برای نمایش تصویر دوربین‌ها و لوپ‌های USB سازگار روی گوشی اندرویدی ساخته شده است. دستگاه را با اتصال مناسب وصل کنید و تصویر زنده را برای بررسی قطعات، کارهای فنی یا مشاهدهٔ جزئیات ببینید.
+امکانات:
+• مشاهده تصویر زنده دوربین USB سازگار
+• ثبت عکس و ضبط ویدیو و مشاهده فایل‌های ثبت‌شده در گالری برنامه
+• ثابت کردن تصویر، شبکه راهنما و کنترل‌های در دسترس دوربین
+• ابزارهای اندازه‌گیری میکروسکوپ شامل فاصله، زاویه و مساحت، با کالیبراسیون مقیاس
+• مقایسه تصویر با مرجع و تنظیم نحوه نمایش
+• عیب‌یابی اتصال و مشاهده مشخصات دوربین
+• فارسی و انگلیسی و پوسته روشن، تیره یا مطابق گوشی
 
-ابزارهایی مانند بزرگ‌نمایی دیجیتال، نشانه‌گیر و خطوط راهنما به مشاهده کمک می‌کنند. گرفتن عکس، ضبط ویدئو و مرور خروجی‌ها نیز در برنامه فراهم شده‌اند. رابط فارسی و انگلیسی و بخش عیب‌یابی اتصال در دسترس‌اند.
+به گوشی دارای USB Host/OTG، مبدل مناسب و دوربین USB سازگار نیاز دارید. وضوح، فرمت تصویر و کنترل‌ها به قابلیت دوربین و گوشی بستگی دارند. اندازه‌گیری به کالیبراسیون صحیح با مرجع معلوم نیاز دارد؛ پس از تغییر فاصله یا بزرگ‌نمایی، مقیاس را دوباره بررسی کنید. این ابزار برای اندازه‌گیری پزشکی یا ایمنی طراحی نشده است. ضبط صدا در نسخه فعلی در دسترس نیست.
 
-استفاده به پشتیبانی USB Host یا OTG گوشی، برق کافی و سازگاری دوربین UVC وابسته است. همهٔ لوپ‌ها و دوربین‌ها الزاماً پشتیبانی نمی‌شوند. ضبط صدا در نسخهٔ فعلی فعال نیست.
+برنامه دارای تبلیغات است. فایل‌های ثبت‌شده روی گوشی ذخیره می‌شوند.
 
-این برنامه دارای تبلیغات است.
 
-### شروع کار
+USB Camera displays compatible UVC USB cameras and microscopes connected through OTG.
 
-دوربین یا لوپ USB سازگار را با OTG وصل کنید و اجازه اتصال بدهید. در صورت تصویر سیاه، قالب یا وضوح پشتیبانی‌شده دیگری را امتحان کنید.
+Features:
+• Live preview from a compatible USB camera
+• Photo capture, video recording and a gallery of captured files
+• Freeze frame, guide grid and supported camera controls
+• Microscope tools for distances, angles and areas, with scale calibration
+• Reference-image comparison and display controls
+• Connection diagnostics and camera information
+• Persian and English, with light, dark and system themes
 
-### تبلیغات
+Requires a USB Host/OTG-capable phone, a suitable adapter and a compatible USB camera. Available resolutions, video formats and controls depend on the camera and phone. Measurements require correct calibration against a known reference; recheck the scale after changing distance or magnification. This is not a medical or safety measurement instrument. Audio recording is unavailable in the current version.
 
-بنر همسان در گالری و تنظیمات، خارج از تصویر زنده. نبود تبلیغ مانع استفاده از برنامه نمی‌شود.
+Contains advertising. Captured files are saved on your device.
 
-## English
 
-USB Camera displays compatible USB cameras and microscopes on an Android phone. Connect your device using a suitable cable or adapter and view the live feed for electronics work, technical inspection or close-up observation.
-
-Digital zoom, a crosshair and guide overlays support detailed viewing. Photo capture, video recording and browsing saved media are also available. Persian and English interfaces and connection diagnostics are included.
-
-Use requires USB Host or OTG support, sufficient power and a compatible UVC camera. Not every microscope or camera is supported. Audio recording is not enabled in the current version.
-
-This app contains advertising.
-
-### Getting started
-
-Connect a compatible USB camera or microscope through OTG and grant access. If the preview is blank, try another supported format or resolution.
-
-### Advertising
-
-Native banner in Gallery and Settings, outside live preview. An unavailable ad does not block ordinary use.
-
-## Download and updates | دریافت و به‌روزرسانی
-
-Android APK, version **1.0.2**. Package: `com.sinatools.usbcamera`.
-For updates, install over the existing app to preserve its local data. Do not uninstall first.
-
-برای حفظ اطلاعات، نسخه جدید را روی نسخه قبلی نصب کنید؛ ابتدا برنامه را حذف نکنید.
+Package: `com.sinatools.usbcamera` · Android 7.0+ · Version 1.0.3 (4)
 
 [Privacy / حریم خصوصی](PRIVACY.md)
-
-This repository distributes the signed app and user guide. Private signing keys and local build credentials are not published.
