@@ -39,3 +39,30 @@ Contains advertising. Captured files are saved on your device.
 Package: `com.sinatools.usbcamera` · Android 7.0+ · Version 1.0.3 (4)
 
 [Privacy / حریم خصوصی](PRIVACY.md)
+
+<!-- STORE-GALLERY -->
+
+## Screenshots | تصاویر برنامه
+
+App screens in English and Persian; sample content is used where needed.
+
+### English
+
+<img src="screenshots/en/01-settings-light.png" width="240" alt="USB Camera en 01-settings-light" />
+<img src="screenshots/en/02-settings-dark.png" width="240" alt="USB Camera en 02-settings-dark" />
+<img src="screenshots/en/03-diagnostics.png" width="240" alt="USB Camera en 03-diagnostics" />
+<img src="screenshots/en/04-microscope.png" width="240" alt="USB Camera en 04-microscope" />
+<img src="screenshots/en/05-comparison.png" width="240" alt="USB Camera en 05-comparison" />
+<img src="screenshots/en/06-connection-guide.png" width="240" alt="USB Camera en 06-connection-guide" />
+<img src="screenshots/en/07-calibration.png" width="240" alt="USB Camera en 07-calibration" />
+
+### فارسی
+
+<img src="screenshots/fa/01-settings-light.png" width="240" alt="USB Camera fa 01-settings-light" />
+<img src="screenshots/fa/02-settings-dark.png" width="240" alt="USB Camera fa 02-settings-dark" />
+<img src="screenshots/fa/03-diagnostics.png" width="240" alt="USB Camera fa 03-diagnostics" />
+<img src="screenshots/fa/04-microscope.png" width="240" alt="USB Camera fa 04-microscope" />
+<img src="screenshots/fa/05-comparison.png" width="240" alt="USB Camera fa 05-comparison" />
+<img src="screenshots/fa/06-connection-guide.png" width="240" alt="USB Camera fa 06-connection-guide" />
+<img src="screenshots/fa/07-calibration.png" width="240" alt="USB Camera fa 07-calibration" />
+
